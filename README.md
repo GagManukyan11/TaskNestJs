@@ -1,3 +1,15 @@
+# For testing Backend
+
+# Database
+ Create PostgreSQL database table with name books, witch have fields by types
+
+ id --AutoIncrement,
+ title -- varchar,
+ author -- varchar,
+ year_of_publication -- numeric,
+ created_at -- timestamptz,
+ updated_at -- timestamptz
+
 # Library CRUD Challenge Starter
 
 Welcome to the Library CRUD Challenge Starter. This is a base project intended for interview testing.
